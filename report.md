@@ -1,7 +1,7 @@
 0. Был склонирован репозиторий с лабораторной работой 5. 
 1. На github был создан репозиторий git-practice (рисунок 1). Ссылка на репозиторий: https://github.com/Klochkova24/git-practice.
    
-   ![image](https://github.com/Klochkova24/lab-5/assets/91188482/23613c7d-d486-4a7f-b2b5-e28adb4a9e33)
+   ![image](https://github.com/user-attachments/assets/171db91d-1edc-4682-ab98-dffae378a1d2)
 
    Рисунок 1 - Новый пустой репозиторий
    
